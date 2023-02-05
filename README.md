@@ -5,7 +5,7 @@
 или вам нужно клонировать все содержимое репозитория git clone <this repo> или загрузить ZIP-архив репозитория. Затем откройте файл index.html , расположенный в корне проекта.
 ___
 ### screens
-![header](https://github.com/Sergey-Karpov/Blanchard-art-gallery/blob/main/screens/header.png)
+![header](https://github.com/Sergey-Karpov/W-Wave-radio/screens/header.png)
 ![galery-section](https://github.com/Sergey-Karpov/Blanchard-art-gallery/blob/main/screens/galery-section.png)
 ![popap](https://github.com/Sergey-Karpov/Blanchard-art-gallery/blob/main/screens/popap.png)
 ![artists-section](https://github.com/Sergey-Karpov/Blanchard-art-gallery/blob/main/screens/artists-section.png)
