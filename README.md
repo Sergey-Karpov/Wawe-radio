@@ -5,11 +5,14 @@
 или вам нужно клонировать все содержимое репозитория git clone <this repo> или загрузить ZIP-архив репозитория. Затем откройте файл index.html , расположенный в корне проекта.
 ___
 ### screens
-![header](https://github.com/Sergey-Karpov/W-Wave-radio/screens/header.png)
-![galery-section](https://github.com/Sergey-Karpov/Blanchard-art-gallery/blob/main/screens/galery-section.png)
-![popap](https://github.com/Sergey-Karpov/Blanchard-art-gallery/blob/main/screens/popap.png)
-![artists-section](https://github.com/Sergey-Karpov/Blanchard-art-gallery/blob/main/screens/artists-section.png)
-![partners&map-sections](https://github.com/Sergey-Karpov/Blanchard-art-gallery/blob/main/screens/partners%26map-sections.png)
+![header](https://github.com/Sergey-Karpov/Wawe-radio/blob/main/W-Wave-radio/screens/header.png)
+![podcasts-section](https://github.com/Sergey-Karpov/Wawe-radio/blob/main/W-Wave-radio/screens/podcasts.png)
+![broadcasts-section](https://github.com/Sergey-Karpov/Wawe-radio/blob/main/W-Wave-radio/screens/broadcasts.png)
+![guests-section](https://github.com/Sergey-Karpov/Wawe-radio/blob/main/W-Wave-radio/screens/guests.png)
+![playlists-sections](https://github.com/Sergey-Karpov/Wawe-radio/blob/main/W-Wave-radio/screens/playlists.png)
+![merch-sections](https://github.com/Sergey-Karpov/Wawe-radio/blob/main/W-Wave-radio/screens/merch.png)
+![authors-sections](https://github.com/Sergey-Karpov/Wawe-radio/blob/main/W-Wave-radio/screens/authors.png)
+![form%26footer-sections](https://github.com/Sergey-Karpov/Wawe-radio/blob/main/W-Wave-radio/screens/form%26footer.png)
 ____
 ### eng
 # 🎙Wawe-radio !on-air!
